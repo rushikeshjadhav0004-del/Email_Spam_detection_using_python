@@ -19,7 +19,7 @@ The model has been trained and evaluated on the **SMS Spam Collection Dataset**,
 ---
 
 ## Tech Stack
-- **Programming Language:** Python  
+- **Programming Language:** Python
 - **Libraries Used:**
   - pandas  
   - numpy  
